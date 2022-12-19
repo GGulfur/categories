@@ -1,0 +1,34 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "headImage": "rulebooks.png",
+      "title": "Rulebooks"
+    },
+    {
+      "id": 2,
+      "headImage": "adventureBooks1.jpg",
+      "title": "Adventure Books"
+    },
+    {
+      "id": 3,
+      "headImage": "maps.png"
+      "title": "Maps"
+    },
+    {
+      "id": 4,
+      "headImage": "minatures.png",
+      "title": "Miniatures"
+    },
+    {
+      "id": 5,
+      "headImage": "dices.png",
+      "title": "Dices"
+    },
+    {
+      "id": 6,
+      "headImage": "bundle.png",
+      "title": "Bundles"
+    }
+    ]
+}
